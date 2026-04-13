@@ -1,8 +1,9 @@
 <div align="center">
 
-## Junghyun (Joanne) Yun
+### Junghyun (Joanne) Yun
 
 Senior - Industrial Engineering @ Ajou University & UW-Madison (VISP)
+
 Incoming UW-Madison ISyE Master Student
 
 [jyun45@wisc.edu](mailto:jyun45@wisc.edu) • [LinkedIn](https://www.linkedin.com/in/joanneyun050704/)
