@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Joanne Yun!
 
-<!--
-**joannemiki57/joannemiki57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- **Undergraduate Student** at Ajou University, specializing in Data Analysis and Anomaly Detection.
+- **VISP Student** at University of Wisconsin-Madison.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Languages:** Python, SQL, Java, C#
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Scikit-learn
+- **Tools:** Git, GitHub, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- **LinkedIn:** [Junghyun (Joanne) Yun](https://www.linkedin.com/in/joanneyun050704/)
+- **Email:** jyun45@wisc.edu
