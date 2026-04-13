@@ -11,7 +11,7 @@ Incoming UW-Madison ISyE Master Student
 </div>
 
 ---
-## Tech Stack
+### Tech Stack
 - **Languages:** Python, SQL, Java, C#
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Scikit-learn
 - **Tools:** Git, GitHub, MySQL
