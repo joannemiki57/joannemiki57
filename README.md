@@ -1,6 +1,6 @@
 <div align="center">
 
-### Junghyun (Joanne) Yun
+### Joanne Yun
 
 UW-Madison ISyE Master Student
 
