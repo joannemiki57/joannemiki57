@@ -2,7 +2,7 @@
 
 ### Junghyun (Joanne) Yun
 
-Incoming UW-Madison ISyE Master Student
+UW-Madison ISyE Master Student
 
 [jyun45@wisc.edu](mailto:jyun45@wisc.edu) • [LinkedIn](https://www.linkedin.com/in/joanneyun050704/)
 
